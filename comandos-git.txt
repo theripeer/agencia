@@ -3,3 +3,5 @@ git remote add origin https://github.com/theripeer/agencia.git
 git status # MUESTRA ARCHIVOS A SUBIR
 git add nombre-de-archivo #para subir archivo especifico
 git add . #PARA SUBIR TODOS LOS ARCHIVOS
+git commit -m "ESTRUCTURA INICIAL" #subida inicial a github
+git push -u origin master
